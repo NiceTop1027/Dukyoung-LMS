@@ -1,0 +1,35 @@
+{
+  "name": "덕영고등학교 LMS - 스마트 학습 관리 시스템",
+  "short_name": "덕영고 LMS",
+  "description": "덕영고등학교의 혁신적인 학습 관리 시스템입니다. 과제 관리, 실시간 소통, 파일 공유, 성적 관리 등 모든 교육 활동을 하나의 플랫폼에서 효율적으로 관리하세요.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/school-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["education", "productivity", "utilities"],
+  "lang": "ko",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}

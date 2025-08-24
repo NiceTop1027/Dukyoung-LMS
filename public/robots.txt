@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /login
+Allow: /dashboard
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://deokyoung-lms.vercel.app/sitemap.xml
