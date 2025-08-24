@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://dy-lms.dyhs.kr/static/assets/logo.png" alt="DY LMS Logo" width="200" />
+  <img src="[https://dy-lms.dyhs.kr/static/assets/logo.png](https://i.namu.wiki/i/ObQ4LgeNZBe9Mz-E8da2_QVnq2TP-xoSU0cNj9m3c5rnVv0k1ag1X9W9a28WTtUTeksCmHmOFhBjtyBrgR3k-Q.png)" alt="DY LMS Logo" width="200" />
 </p>
 
 ---
@@ -23,7 +23,6 @@ DY LMS는 덕영고등학교 학생들을 위한 최신 학습관리시스템입
 - **과제 및 시험 일정 관리**  
 - **실시간 성적 확인 및 분석**  
 - **공지사항 및 커뮤니티 기능**  
-- **모바일 친화적 반응형 디자인**
 
 ---
 
