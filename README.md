@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="[https://dy-lms.dyhs.kr/static/assets/logo.png](https://i.namu.wiki/i/ObQ4LgeNZBe9Mz-E8da2_QVnq2TP-xoSU0cNj9m3c5rnVv0k1ag1X9W9a28WTtUTeksCmHmOFhBjtyBrgR3k-Q.png)" alt="DY LMS Logo" width="200" />
+  <img src="https://i.namu.wiki/i/ObQ4LgeNZBe9Mz-E8da2_QVnq2TP-xoSU0cNj9m3c5rnVv0k1ag1X9W9a28WTtUTeksCmHmOFhBjtyBrgR3k-Q.png" alt="DY LMS Logo" width="200" />
 </p>
 
 ---
