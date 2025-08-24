@@ -1,30 +1,43 @@
-# LMS website requirements
+# 🎓 DY LMS (덕영고 학습관리시스템)
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+[https://dy-lms.dyhs.kr](https://dy-lms.dyhs.kr)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/simwoochuls-projects/v0-lms-website-requirements)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/MhWHOCYq06l)
+---
 
-## Overview
+<p align="center">
+  <img src="https://dy-lms.dyhs.kr/static/assets/logo.png" alt="DY LMS Logo" width="200" />
+</p>
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+## 소개
 
-Your project is live at:
+DY LMS는 덕영고등학교 학생들을 위한 최신 학습관리시스템입니다.  
+직관적이고 편리한 UI와 강력한 학습 도구를 통해 학생과 교사 모두의 학습 경험을 향상시킵니다.
 
-**[https://vercel.com/simwoochuls-projects/v0-lms-website-requirements](https://vercel.com/simwoochuls-projects/v0-lms-website-requirements)**
+---
 
-## Build your app
+## 주요 기능 ✨
 
-Continue building your app on:
+- **맞춤형 학습 콘텐츠 제공**  
+- **과제 및 시험 일정 관리**  
+- **실시간 성적 확인 및 분석**  
+- **공지사항 및 커뮤니티 기능**  
+- **모바일 친화적 반응형 디자인**
 
-**[https://v0.app/chat/projects/MhWHOCYq06l](https://v0.app/chat/projects/MhWHOCYq06l)**
+---
 
-## How It Works
+## 기술 스택 🛠️
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+## 🏃‍♂️ 빠르게 시작하기
+
